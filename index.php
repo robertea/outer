@@ -295,7 +295,7 @@ $(document).ready(function() {
 
         $.ajax({
             dataType: 'JSON',
-            url: 'https://jldfabrications.com/wp-fre/next.php',
+            url: 'https://jldfabrications.com/wp-fre',
             type: 'POST',
             data: {
                 ai: ai,
